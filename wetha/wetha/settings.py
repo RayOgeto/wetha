@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-wete!*yu+dl1+sv^=lqu5tf$-jpu9=6g=#6b^)flp9m-#horaf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['wetha.onrender.com']
 
 
 # Application definition
