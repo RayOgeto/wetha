@@ -8,7 +8,8 @@ const App = () => {
 
     const fetchWeather = async (location) => {
         try {
-            const response = await fetch(`https://weather.onrender.com/api/weather/${location}/`);
+            // const response = await fetch(`https://weather.onrender.com/api/weather/${location}/`);
+            const response = await fetch(`https://wetha.onrender.com/`);
             if (!response.ok) {
               throw new Error('failed to fetch weather data');
             }
