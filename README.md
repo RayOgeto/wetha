@@ -1,1 +1,1 @@
-click <a href="wetha.vercel.app">wetha</a>. to run the wetha site
+click <a href="https://wetha.vercel.app/">wetha</a>. to run the wetha site
